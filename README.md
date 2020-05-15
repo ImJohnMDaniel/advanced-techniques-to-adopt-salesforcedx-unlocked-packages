@@ -1,5 +1,5 @@
 # Advanced Techniques To Adopt SalesforceDX Unlocked Packages
-Original repo name for what has become the [AT4DX Framework Project](https://github.com/ImJohnMDaniel/at4dx).
+Original repo name for what has become the [AT4DX Framework Project](https://github.com/apex-enterprise-patterns/at4dx).
 
 The project was moved to its new location because, quite frankly, it was very tedious to type in this long repo name. :sunglasses:
 
